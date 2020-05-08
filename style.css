@@ -1,0 +1,113 @@
+.bg{
+    background-color: #316DC3;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+.socialimg{
+    width: 30px;
+    border: none;
+    background: none;
+}
+.box{
+    text-align: center;
+}
+
+
+.navigation{
+    background-color: rgb(247, 248, 250);
+}
+.logo{
+    width: 200px;
+}
+@media only screen and (max-width: 575px) {
+    .logo{
+        width: 155px;
+    }
+ }
+.navigation nav{
+    font-size: small;
+    font-weight: bold;
+}
+.navigation li{
+    padding: 4px;
+}
+.navigation li>a:hover{
+    background-color: #316DC3;
+    color: white !important;
+    border-radius: 20px;
+}
+
+.blue{
+    color: #316DC3;
+}
+.green{
+    color: #427900;
+}
+.intro{
+    text-align: justify;
+    color: rgb(102, 102, 102);
+}
+
+
+.counter{
+    background-color: #316DC3;
+    text-align: center;
+}
+.counter img{
+    vertical-align: middle;
+    height: 40px;
+}
+.counter h2{
+    font-size: 55px;
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.counter h5{
+    color: white;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    paddi
+}
+.doing{
+    background-color: rgb(247, 248, 250);
+}
+.doing div{
+    text-align: center;   
+}
+.boxshadow{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.eight{
+    background-color: white;
+}
+.a{
+    background-color: rgb(247, 248, 250);
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.font{
+    font-size: 14px;
+    text-align: justify;
+}
+.img-fluid{
+    width: 300px;
+}
+.footer{
+    background-color: #25272e;
+    padding-top: 65px;
+    padding-bottom: 40px;
+}
+.footer li{
+    list-style-type: none;
+}
+.xfoot{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#316DC3  ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   }
